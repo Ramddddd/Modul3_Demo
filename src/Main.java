@@ -50,6 +50,6 @@ public class DeteksiUmur {
         int months = age.getMonths();
         int days = age.getDays();
 
-        System.out.println("Your age is " + years + " years, " + months + " months, and " + days + " days.");
+        System.out.println("tahun lahir " + years + " years, " + months + " months, and " + days + " days.");
     }
 }
